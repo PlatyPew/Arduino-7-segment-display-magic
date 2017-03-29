@@ -1,6 +1,8 @@
 # 7 segment display
 Just magic (I'm using an arduino uno)
 
+Pin numbers of the LED display start from the bottom left and work it's way anti-clockwise
+
 # How to use the thing
 `sudo python word_gen.py; sudo ./upload.sh`
 
