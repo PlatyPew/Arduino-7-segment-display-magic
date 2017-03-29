@@ -10,3 +10,5 @@ Pin numbers of the LED display start from the bottom left and work it's way anti
 In the Makefile, you need the change the `ARDUINO_PORT` to something else
 
 To know which port to use, you can try using `dmesg`
+
+(If you're on windows, well... figure it out yourself)
