@@ -1,0 +1,21 @@
+    A
+   ---
+F |   | B
+  | G |
+   ---
+E |   | C
+  |   |
+   ---
+    D
+
+BOARD		SEGMENT			PIN
+1		E			6
+2		D			5
+3		NONE			NONE	
+4		C			4
+5		.			9
+6		B			3
+7		A			2
+8		GROUND			GND	
+9		F			7
+10		G			8
