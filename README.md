@@ -1,5 +1,5 @@
 # 7 segment display
-Just magic
+Just magic (I'm using an arduino uno)
 
 # How to use the thing
 `sudo python word_gen.py; sudo ./upload.sh`
