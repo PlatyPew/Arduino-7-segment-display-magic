@@ -7,7 +7,7 @@ Pin numbers of the LED display start from the bottom left and work it's way anti
 `sudo python word_gen.py; sudo ./upload.sh`
 
 # Stuff to change
-In the Makefile, you need the change the `ARDUINO_PORT` to something else
+In the Makefile, you need the change the `ARDUINO_PORT` to something else: https://github.com/PlatyPooper/Arduino-7-segment-display-magic/blob/master/Makefile#L2
 
 To know which port to use, you can try using `dmesg`
 
